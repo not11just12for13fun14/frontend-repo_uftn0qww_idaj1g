@@ -56,7 +56,7 @@ export default function HowItWorks() {
                   Coverage
                 </div>
                 <div className="rounded-lg border border-white/10 bg-white/5 p-3">
-                  <div className="text-white font-medium">< 120ms</div>
+                  <div className="text-white font-medium">&lt; 120ms</div>
                   Retrieval
                 </div>
               </div>
